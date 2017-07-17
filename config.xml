@@ -5,5 +5,5 @@
         version   = "1.0.0">
     <name>APP DEMO2</name>
     <description>APP DEMO2</description>
-    <icon src="img/logo.png" />
+    <icon src="img/logo.jpg" />
 </widget>
